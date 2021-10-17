@@ -1,7 +1,7 @@
 # feather-framework
 A framework on PHP. A project of study.
 
-## BETA
+## WARNING: IN-DEVELOPMENT
 A MVC framework. Depends on intuitive design and lightness.
 
 ## TODO:
